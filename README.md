@@ -1,6 +1,5 @@
 - 👋 Hi, I am Redzone
-- 👀 I’m interested in UI/UX Designing and Web development
-- 🌱 I’m currently learning Frontend Web Development
+- 🌱 Growing Frontend Web Developer
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 Message me on Twitter @Redzoneoncod...
 
