@@ -1,6 +1,6 @@
 - 👋 Hi, I am Redzone
-- 🌱 Growing Frontend Web Developer
-- 💞️ I’m looking to collaborate on Frontend projects
+- 🌱 Frontend Web Developer and UI designer.
+- 💞️ I’m looking to collaborate on projects
 - 📫 Message me on Twitter @Redzoneoncod...
 
 <!---
